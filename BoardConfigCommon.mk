@@ -17,9 +17,9 @@
 BOARD_VENDOR := oppo
 
 # CM Hardware
-BOARD_USES_CYANOGEN_HARDWARE := true
-BOARD_HARDWARE_CLASS += \
-    hardware/cyanogen/cmhw
+#BOARD_USES_CYANOGEN_HARDWARE := true
+#BOARD_HARDWARE_CLASS += \
+    #hardware/cyanogen/cmhw
 
 # QCOM Power
 TARGET_POWERHAL_VARIANT := qcom
