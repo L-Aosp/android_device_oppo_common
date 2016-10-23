@@ -18,8 +18,8 @@
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 # Keyhandler
-#PRODUCT_PACKAGES += \
-#    ConfigPanel \
+PRODUCT_PACKAGES += \
+#   ConfigPanel \
     com.onyx.keyhandler
 
 PRODUCT_SYSTEM_SERVER_JARS += com.onyx.keyhandler
